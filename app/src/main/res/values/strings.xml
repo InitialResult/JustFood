@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JustFood</string>
+    <string-array name="country_no">
+        <item>United Kingdom</item>
+        <item>United States</item>
+    </string-array>
+</resources>
