@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">JustFood</string>
+    <string name="app_name_profile">Profile Details</string>
     <string-array name="country_no">
         <item>United Kingdom</item>
         <item>United States</item>
