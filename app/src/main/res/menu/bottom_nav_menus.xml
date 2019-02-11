@@ -8,12 +8,4 @@
         android:id="@+id/recipe_book"
         android:icon="@drawable/ic_recipe_book"
         android:title="recipe book" />
-    <item
-        android:id="@+id/Ingredients"
-        android:icon="@drawable/ic_harvest"
-        android:title="Ingredients" />
-    <item
-        android:id="@+id/shopping_list"
-        android:icon="@drawable/ic_shopping_list"
-        android:title="shopping list" />
 </menu>

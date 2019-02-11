@@ -2,14 +2,8 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
-        android:id="@+id/social"
-        android:icon="@drawable/ic_share"
+        android:id="@+id/like"
+        android:icon="@drawable/ic_action_like"
         android:title="Share"
-        app:showAsAction="ifRoom"/>
-
-    <item
-        android:id="@+id/barcode"
-        android:icon="@drawable/ic_barcode"
-        android:title="Barcode"
         app:showAsAction="ifRoom"/>
 </menu>
